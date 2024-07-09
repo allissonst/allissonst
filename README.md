@@ -1,16 +1,17 @@
-<h1 align="left">Olá.</h1>
+<h1 align="left">:wink:</h1>
 
 ###
 
-<p align="left">:man_office_worker:Meu nome é Allisson Santos. 
-<p align="left">:books: Sou Doutorando em Administração pela UFPB. 
-<p align="left">🎓 Mestre e Bacharel em Administração. 
-<p align="left">🎓Tecnólogo em Sistemas para Internet. 
-<p align="left">👨‍🏫 Atuo como Professor na Universidade Estadual da Paraíba. 
+<p align="left">:man_office_worker:Meu nome é Allisson Santos. </p>
+<p align="left">:books: Sou Doutorando em Administração pela UFPB. </p>
+<p align="left">🎓 Mestre e Bacharel em Administração. </p>
+<p align="left">🎓Tecnólogo em Sistemas para Internet. </p>
+<p align="left">👨‍🏫 Atuo como Professor na Universidade Estadual da Paraíba. </p>
 <p align="left">🎲 Sou entusiasta pela área de Dados.</p>
-</p>
-</p>
-</p>
+
+<br>
+
+
 
 ###
 
