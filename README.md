@@ -1,8 +1,6 @@
 <h1 align="left">:wink:</h1>
 
 ###
-
-<p align="left">:man_office_worker:Meu nome é Allisson Santos. </p>
 <p align="left">:books: Sou Doutorando em Administração com ênfase em Finanças e Métodos Quantitativos pela Universidade Federal da Paraíba. </p>
 <p align="left">🎓 Mestre e Bacharel em Administração. </p>
 <p align="left">🎓 Tecnólogo em Sistemas para Internet. </p>
