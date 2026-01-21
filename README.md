@@ -4,7 +4,7 @@
 <p align="left">:books: Sou Doutorando em Administração com ênfase em Finanças e Métodos Quantitativos pela Universidade Federal da Paraíba. </p>
 <p align="left">🎓 Mestre e Bacharel em Administração. </p>
 <p align="left">🎓 Tecnólogo em Sistemas para Internet. </p>
-<p align="left">👨‍🏫 Atuo como Professor na Universidade Estadual da Paraíba e como Agente de Dados - Business Intelligence por meio de uma parceria entre o Sebrae e a Fundação de Apoio à Pesquisa do Estado da Paraíba. </p>
+<p align="left">👨‍🏫 Atuo como Professor na Universidade Estadual da Paraíba e como Agente de Dados Pesquisador - Business Intelligence por meio de uma parceria entre o Sebrae e a Fundação de Apoio à Pesquisa do Estado da Paraíba. </p>
 <p align="left">🎲 Sou entusiasta pela área de Dados.</p>
 
 <br>
