@@ -29,6 +29,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  height="40" alt="MongoDB logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman logo"/>
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354242/qlik.svg" height="40" alt="Qlik Sense logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" height="40" alt="Power BI logo"/>
+
+  
+  
+
+  
           
           
 </div>
